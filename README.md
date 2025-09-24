@@ -1,4 +1,4 @@
-# From Images to Text: Working with OCR
+# Text Calssification in Practice: From Topic Models to Transformers
 
 Welcome to the Readme file for the CDCS Workshop '**From Images to Text: Working with OCR**'. Below you can find all the details that you will need to get ready and attend this class.
 
@@ -27,15 +27,6 @@ This is a beginer-level workshop and does not require any prior programming know
 - A Laptop
 - A WiFi Connection
 - If you're new to R and Python, don't worry we have built the files and material that will allow you to visualise and play with the code for this class.
-
-
-### Working with R
-
-To attend this class you can either set up your account in RStudio Online or run the course material on your laptop if you have R Studio installed already:
-
-- Set up account for Rstudio Online: click on the link below and log in via a Google account to set up in RStudio Online.
-
-- [Download course material for R: ](TBC) 
 
 ### **Working with Python**
 
